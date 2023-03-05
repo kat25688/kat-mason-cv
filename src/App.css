@@ -1,0 +1,125 @@
+.flex-container {
+  display: flex;
+  justify-content: center;
+  background-color: #b47180;
+  margin-bottom: 20px;
+}
+
+.image {
+  padding: 40px;
+  border-radius: 50%;
+  margin-left: 45px;
+  width: 400px;
+}
+
+.logo {
+  width: 100px;
+  border-radius: 15%;
+  margin: 20px;
+  background-color: white;
+  padding: 15px;
+  margin-left: 75px;
+}
+
+.whiteText {
+  color: white;
+}
+
+.textMid {
+  margin-top: 30px;
+}
+
+.btn {
+  margin: 10px;
+  width: 200px;
+  margin-bottom: 50px;
+}
+
+div {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: black;
+  font-weight: bold;
+  font-size: 70px;
+}
+
+h2 {
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 22px;
+  text-align: center;
+}
+
+h4 {
+  color: #b47180;
+
+  font-size: 18px;
+}
+
+h5 {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+p {
+  color: grey;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+ul {
+  color: grey;
+
+  text-align: left;
+}
+
+.nav {
+  margin-left: 50px;
+  color: #b47180;
+  --bs-nav-link-hover-color: black;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  color: white;
+  background-color: black;
+}
+
+a.nav-link {
+  color: #b47180;
+  justify-content: center;
+  margin-bottom: 2px;
+}
+
+td,
+tr {
+  text-align: left;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.logosDiv {
+  display: block;
+  background-color: black;
+  margin-bottom: 20px;
+}
+
+.card {
+  display: block;
+
+  margin-right: 50px;
+  padding: 20px;
+  background-color: rgba(180, 113, 128, 0.2);
+  border: none;
+}
