@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/kat-mason-cv/static/css/main.78688db1.css",
+    "main.js": "/kat-mason-cv/static/js/main.2449f6be.js",
+    "static/js/787.6f8e5cc2.chunk.js": "/kat-mason-cv/static/js/787.6f8e5cc2.chunk.js",
+    "static/media/profile_picture_1.jpg": "/kat-mason-cv/static/media/profile_picture_1.9281027c76b86a2931c2.jpg",
+    "static/media/react.png": "/kat-mason-cv/static/media/react.becbab0ab5d2271d2831.png",
+    "static/media/html_css.png": "/kat-mason-cv/static/media/html_css.556b698616282f028a65.png",
+    "static/media/javascript.png": "/kat-mason-cv/static/media/javascript.3cacb63905f322fb3541.png",
+    "static/media/mongo.png": "/kat-mason-cv/static/media/mongo.c964002ecef4971216d0.png",
+    "static/media/api.png": "/kat-mason-cv/static/media/api.3b1f22a2427ec70c0742.png",
+    "index.html": "/kat-mason-cv/index.html",
+    "main.78688db1.css.map": "/kat-mason-cv/static/css/main.78688db1.css.map",
+    "main.2449f6be.js.map": "/kat-mason-cv/static/js/main.2449f6be.js.map",
+    "787.6f8e5cc2.chunk.js.map": "/kat-mason-cv/static/js/787.6f8e5cc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78688db1.css",
+    "static/js/main.2449f6be.js"
+  ]
+}
